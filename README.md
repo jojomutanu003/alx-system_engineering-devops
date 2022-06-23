@@ -1,2 +1,4 @@
-#!/bin/bash
-shell basics assignment
+alx software developmens
+
+week 3 
+
