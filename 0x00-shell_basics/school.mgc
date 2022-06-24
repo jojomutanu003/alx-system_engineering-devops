@@ -1,2 +1,2 @@
 #!/bin/bash
-0 string SCHOOL School data !:mime School school.mgc
+rmdir /tmp/my_first_directory school.mgc
